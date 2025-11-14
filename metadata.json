@@ -1,0 +1,5 @@
+{
+  "name": "Product Visualizer AI",
+  "description": "An application that takes a product image and visualizes it in various marketing mediums like coffee mugs, billboards, and t-shirts using Gemini 2.5 Flash Image (Nano Banana) to ensure product consistency.",
+  "requestFramePermissions": []
+}
